@@ -17,6 +17,8 @@ developer edition.
   * commons-io-2.4.jar
   * jackson-core-2.5.1.jar
   * jackson-annotations-2.5.1.jar
+  * commons-logging-1.1.3.jar
+  * log4j-1.2.17.jar
 
 ### Automation Host Developer Edition
 ###### Run
