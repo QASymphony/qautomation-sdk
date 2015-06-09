@@ -32,10 +32,10 @@ the folder structure:
 * plugins: internal (bundled) and external plugin.
 * plugins_work: plugin installed directory.
 
-###### Deploy plugin:
+###### Install plugin
 * Copy plugin (jar file) to plugins/external of Automation Host
 * Restart Automation Host to take effect.
 
-###### Destroy plugin:
+###### Uninstall plugin
 * Remove your plugin folder in plugins_work folder of Automation Host
 * Remove your plugin file (jar file) in plugins/external
