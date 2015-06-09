@@ -1,6 +1,6 @@
 # qTest Automation SDK
 This package includes automation libraries and automation host
-development edition.
+developer edition.
 
 ### Automation libraries
 * agent-base-1.0.0.jar - including plugin domain classes, plugin
@@ -18,7 +18,7 @@ development edition.
   * jackson-core-2.5.1.jar
   * jackson-annotations-2.5.1.jar
 
-### Automation Host Development Edition
+### Automation Host Developer Edition
 ###### Run
 ```sh
 $ cd agent
